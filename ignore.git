@@ -1,0 +1,21 @@
+# C++ Files
+*.exe
+*.o
+*.out
+
+# Python Files
+__pycache__/
+*.pyc
+venv/
+
+# Web & Node.js Files
+node_modules/
+*.log
+
+# Database & Environment Variables (CRITICAL)
+*.dmp
+.env
+
+*.mp4
+*.mkv
+*.avi
